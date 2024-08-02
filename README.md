@@ -1,4 +1,4 @@
-# ultiNote
+# chronoLog
 
 The Vision (so far)
 ---
